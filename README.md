@@ -7,5 +7,5 @@ Pause = P key
 Rules of the game
 Hitting the obstacles or fallling off the platform will reset the level
 Try to knock as many pins as you can 
-Github link to depository 
+Github link to repository 
 https://github.com/idkwho182/MemLane.git
